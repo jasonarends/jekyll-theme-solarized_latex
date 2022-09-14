@@ -1,0 +1,6 @@
+title: Solarized Latex Theme
+author: jasonarends
+description: Minimal theme based on rahul-bothra/parchment using Solarized colors and Latex fonts
+show_download: true
+google_analytics:
+theme: jekyll-theme-solarized_latex
